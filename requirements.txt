@@ -1,0 +1,10 @@
+langchain
+langchain_community
+PyPDF
+streamlit
+langchain-groq
+ipykernel
+transformers
+beautifulsoup4 
+docx2txt
+unstructured
